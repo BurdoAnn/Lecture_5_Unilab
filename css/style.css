@@ -1,0 +1,227 @@
+/*header styles*/
+
+.body{
+	background: #F6F8F9;
+}
+
+.logo{
+	display: inline-block;
+	margin: 17px 21px 0px 20px;
+}
+
+.navigation{
+	display: inline-block;
+	margin top: 17px;
+	font-family: 'Helvetica';
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: capitalize ;
+
+}
+
+.nav-li{
+	display: inline-block;
+	margin-right: 22px;
+}
+
+.nav-icone{
+	display: inline-block;
+	margin: 17px 954px 9px 40px;
+	position: fixed;
+}
+
+/*section #1*/
+
+.big-box{
+	margin: 75px 140px 118px 140px;
+}
+
+.trending{
+	font-family: 'Helvetica';
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+/*child box 1*/
+
+.child-box1{
+	display: inline-block;
+	position: relative;
+	background-color: white;
+
+}
+
+.child-box-img1{
+	padding-top: 40px;
+
+}
+
+.text1-on-img{
+	position: absolute;
+	top: 68px;
+	right: 40px;
+	left: 40px;
+	bottom: 306px;
+	color: white;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.text1-under-img{
+	padding: 66px 40px 66px 40px;
+	font-size: 13px;
+	font-family: 'Acumin Pro';
+	width: 280px;
+	height: 38px;
+}
+
+/*child box 2*/
+
+.child-box2{
+	display: inline-block;
+	position: relative;
+	background-color: white;
+}
+
+.child-box2-img1{
+	padding-left: 40px;
+}
+
+.text2-on-img{
+	position: absolute;
+	top: 28px;
+	right: 80px;
+	left: 80px;
+	bottom: 306px;
+	color: white;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	text-transform: capitalize;
+
+}
+
+.text2-under-img{
+	padding: 66px 40px 66px 40px;
+	font-size: 13px;
+	font-family: 'Acumin Pro';
+	width: 280px;
+	height: 38px;
+}
+
+/*child-box 3*/
+
+.child-box3{
+	display: inline-block;
+	position: relative;
+	background-color: white;
+}
+
+.child-box3-img{
+	padding-left: 40px;
+}
+
+.text3-on-img{
+	position: absolute;
+	top: 28px;
+	right: 80px;
+	left: 80px;
+	bottom: 306px;
+	color: white;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.text3-under-img{
+	padding: 66px 40px 66px 40px;
+	font-size: 13px;
+	font-family: 'Acumin Pro';
+	width: 280px;
+	height: 38px;
+}
+
+/*section2*/
+
+.HAPPENING-NOW{
+	font-family: 'Helvetica';
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.big-box2{
+	margin: 75px 20px 118px 140px;
+}
+
+/*child box 4*/
+
+.child-box4{
+	position: relative;
+	background-color: white;
+	padding-top: 40px;
+
+}
+
+.child-box4-img{
+	padding-left: 40px;
+}
+
+.text4-on-img{
+	position: absolute;
+	top: 393px;
+	right: 40px;
+	left: 480px;
+	bottom: 10px;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	text-transform: capitalize;
+	color: white;
+}
+
+.child-box5-img2{
+	margin: 118px 20px 234px 40px;
+}
+.child-box5{
+	margin-right: 40px;
+}
+/*section3*/
+
+.child-box6{
+	position: relative;
+	background-color: white;
+	padding-top: 40px;
+	margin: 40px 40px 40px 40px;
+}
+
+.text5-on-img{
+	position: absolute;
+	top: 60px;
+	right: 40px;
+	left: 40px;
+	bottom: 362px;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	text-transform: capitalize;
+	color: white;
+}
+
+.child-box7{
+	position: relative;
+	background-color: white;
+	padding-top: 40px;
+	margin: 40px 40px 40px 40px;
+}
+
+.child-box8{
+	position: relative;
+	background-color: white;
+	padding-top: 40px;
+	margin: 40px 140px 300px 40px;
+}
